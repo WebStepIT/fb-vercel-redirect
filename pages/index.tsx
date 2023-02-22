@@ -7,7 +7,7 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Moeng Uy Website</title>
+        <title>Facebook Vercel Redirect Website</title>
         <meta name="description" content="Explore the Amazing & weird Nature in and Around the World" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
