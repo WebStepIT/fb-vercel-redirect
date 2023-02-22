@@ -7,7 +7,7 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>The Wilderness</title>
+        <title>Moeng Uy Website</title>
         <meta name="description" content="Explore the Amazing & weird Nature in and Around the World" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
